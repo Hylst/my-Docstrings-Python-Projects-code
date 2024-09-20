@@ -1,5 +1,5 @@
 # Docstrings-Python-Projects
-Where i'll upload my current learning Python Projects ( i'm still a beginner in Python and learning from Docstrings / Thibault Houdon )
+Where i'll upload my public current learning Python Projects ( i'm still a beginner in Python and learning from Docstrings / Thibault Houdon )
 
 Suivi de projets / programmes de validations d'acquis en apprentissage Python :
 
